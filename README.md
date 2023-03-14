@@ -1,0 +1,1 @@
+Huge shoutout to https://medium.com/@sri.hartini/celestial-bodies-database-data-preparation-part-1-23972a94ad70 for guiding me with this project. This is not a difficult project, just the data collection and planning portion is hectic.
